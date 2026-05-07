@@ -1,12 +1,11 @@
 {
-  "name": "AutoDNS",
+  "name": "AutoDNS - Dynamic DNS updater",
   "version": "1.0.0",
   "description": "Dynamic DNS updater — keeps No-IP, DuckDNS, DynDNS and Cloudflare in sync with your public IP.",
   "entry_point": "autodns",
   "permissions": [
-    "SystemService/*",
     "AppHubService/*",
     "EventService/*",
-    "NetworkService/*"
+    "SystemService/*"
   ]
 }
