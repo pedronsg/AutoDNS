@@ -2,7 +2,7 @@
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
-Dynamic DNS updater for OrbitOS. Keeps your public IP in sync with No-IP, DuckDNS, DynDNS, and Cloudflare records.
+Dynamic DNS updater application for [OrbitOS](https://www.orbit-os.org) IoT devices. Keeps your public IP in sync with No-IP, DuckDNS, DynDNS, and Cloudflare records.
 
 The app runs a local web UI (default port **9033**) and polls your public IP on a configurable interval. When the IP changes, it updates every enabled DNS entry.
 
