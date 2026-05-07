@@ -1,0 +1,5 @@
+.orbit/
+.DS_Store
+.claude/
+.vscode/
+**/orb/data/config.json
