@@ -1,0 +1,13 @@
+.orbit/
+.DS_Store
+.claude/
+.vscode/
+**/orb/data/config.json
+
+# Certificates
+**/*.pem
+**/*.crt
+**/*.key
+**/*.cert
+**/*.p12
+**/*.pfx
